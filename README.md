@@ -151,3 +151,7 @@ _Lo unico a cambiar en este codigo es_
 ```
 
 _Ya que esta es el monbre de la red a la que se conectará y la contraseña de la misma_
+
+# Programación ⛏
+
+![Pines](https://naylampmechatronics.com/img/cms/Blog/ESP8266%20con%20IDE%20Arduino/Pinout%20WeMos.jpg)
