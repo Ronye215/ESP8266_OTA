@@ -20,7 +20,7 @@ _Los requisitos necesarios para realizar este proyecto son:_
 
 ### Instalación 🔧
 
-_Para la instalación y uso se necesita instalar python-2.7.msi_
+_Para la instalación y uso se necesita instalar [python-2.7.msi](https://github.com/Ronye215/ESP8266_OTA/blob/main/python-2.7.msi)_
 
 _Dí cómo será ese paso_
 
