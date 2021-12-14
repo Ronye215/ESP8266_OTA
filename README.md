@@ -137,3 +137,12 @@ void loop() {
   ArduinoOTA.handle();
 }
 ```
+
+_Lo unico a cambiar en este codigo es_
+
+```
+#define STASSID "your-ssid"
+#define STAPSK  "your-password"
+```
+
+_Ya que esta es el monbre de la red a la que se conectará y la contraseña de la misma_
