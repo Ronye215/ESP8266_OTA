@@ -154,4 +154,7 @@ _Ya que esta es el monbre de la red a la que se conectará y la contraseña de l
 
 # Programación ⛏
 
-![Pines](https://naylampmechatronics.com/img/cms/Blog/ESP8266%20con%20IDE%20Arduino/Pinout%20WeMos.jpg)
+_Para la programación del modulo es necesario usar los pines GPIO los cuales se pueden ver en el siguiente link_
+* [Pines](https://naylampmechatronics.com/img/cms/Blog/ESP8266%20con%20IDE%20Arduino/Pinout%20WeMos.jpg)
+
+
