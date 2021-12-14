@@ -51,3 +51,5 @@ Herramientas -> Placa -> Gestor de tarjetas
 ```
 
 _Y en el filtro de busqueda ponemos -ESP8266- e instalamos la ultima versión_
+
+# Uso ✔
