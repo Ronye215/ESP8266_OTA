@@ -56,7 +56,7 @@ _Y en el filtro de busqueda ponemos -ESP8266- e instalamos la ultima versión_
 
 _Al momento de instalar y agregar la tarjeta ESP8266 al entorno de arduino podemos hacer uso de todas las caracteristicas que la placa ofrece_
 
-_Para crear un codigo OTA propio podemos modificar con nuestro propio codigo el siguiente codigo_
+_Para crear un codigo OTA propio podemos modificar con nuestro propio codigo el siguiente [codigo](https://github.com/Ronye215/ESP8266_OTA/blob/main/OTA.ino)_
 
 ```
 #include <ESP8266WiFi.h>
