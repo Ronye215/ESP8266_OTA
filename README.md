@@ -26,17 +26,16 @@ _Esto utilizando la insttalación asistida de Python_
 
 * [Pasos](https://user-images.githubusercontent.com/88066056/146032737-2f85e2f7-e354-4119-9e06-a61147404fd6.jpg)
 
-```
+_Al igual para la instalación del entorno de Arduino_
+
+* [Arduino ide 1.8.16](https://downloads.arduino.cc/arduino-1.8.16-windows.exe)
+
+_Las librerias OTA se incluyen automaticamente al agregar el microprocesador ESP8266 al entorno de programación Arduino_
+
+_En Arduino ide, nos dirijimos a Archivo -> Preferencias -> Gestor de URLs Adicionales de Tarjetas, y agregamos el siguiente Link_
 
 ```
-
-
-
-
-_Y repite_
-
-```
-hasta finalizar
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_Para agregar la tarjeta ESP8266 nos dirijimos a Herramientas -> Placa -> Gestor de tarjetas, y en el filtro de busqueda ponemos -ESP8266- e instalamos la ultima versión_
