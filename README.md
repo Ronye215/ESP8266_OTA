@@ -4,9 +4,8 @@ _La gran ventaja del ESP8266 es su bajo consumo. Es el producto ideal para werea
 
 _Mas información y documentación sobre el ESP8266 en_
 
-```
 [https://github.com/esp8266/Arduino](https://github.com/esp8266/Arduino)
-```
+
 
 ## Comenzando 🚀
 
