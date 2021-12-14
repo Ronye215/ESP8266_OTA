@@ -25,9 +25,7 @@ _Para la instalación y uso se necesita instalar [python-2.7.msi](https://github
 _Esto utilizando la insttalación asistida de Python_
 
 ```
-![p1](https://user-images.githubusercontent.com/88066056/146028470-e33a94e6-7479-476a-934c-b2c783eadd56.jpg)
-
-Siguiente
+![Siguiente](https://user-images.githubusercontent.com/88066056/146028470-e33a94e6-7479-476a-934c-b2c783eadd56.jpg)
 
 ![P2](https://user-images.githubusercontent.com/88066056/146028519-18779bd7-7829-45a8-86cb-8dfdd92f9241.jpg)
 
