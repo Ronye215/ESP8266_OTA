@@ -2,6 +2,12 @@
 _Se trata de un chip integrado con conexión WiFi y compatible con el protocolo TCP/IP. El objetivo principal es dar acceso a cualquier microcontrolador a una red._
 _La gran ventaja del ESP8266 es su bajo consumo. Es el producto ideal para wereables y dispositivos del IoT._
 
+_Mas información y documentación sobre el ESP8266 en_
+
+```
+[https://github.com/esp8266/Arduino](https://github.com/esp8266/Arduino)
+```
+
 ## Comenzando 🚀
 
 _En este repositorio encontraras las herramientas necesarias para realizar pruebas locales._
