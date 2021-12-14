@@ -32,10 +32,22 @@ _Al igual para la instalación del entorno de Arduino_
 
 _Las librerias OTA se incluyen automaticamente al agregar el microprocesador ESP8266 al entorno de programación Arduino_
 
-_En Arduino ide, nos dirijimos a Archivo -> Preferencias -> Gestor de URLs Adicionales de Tarjetas, y agregamos el siguiente Link_
+_En Arduino ide, nos dirijimos a_
+
+```
+Archivo -> Preferencias -> Gestor de URLs Adicionales de Tarjetas
+```
+
+_Y agregamos el siguiente Link_
 
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
-_Para agregar la tarjeta ESP8266 nos dirijimos a Herramientas -> Placa -> Gestor de tarjetas, y en el filtro de busqueda ponemos -ESP8266- e instalamos la ultima versión_
+_Para agregar la tarjeta ESP8266 nos dirijimos a_ 
+
+```
+Herramientas -> Placa -> Gestor de tarjetas
+```
+
+_Y en el filtro de busqueda ponemos -ESP8266- e instalamos la ultima versión_
