@@ -20,7 +20,7 @@ _Los requisitos necesarios para realizar este proyecto son:_
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Para la instalación y uso se necesita instalar python-2.7.msi_
 
 _Dí cómo será ese paso_
 
