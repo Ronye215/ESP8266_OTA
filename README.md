@@ -25,16 +25,16 @@ _Para la instalación y uso se necesita instalar [python-2.7.msi](https://github
 _Esto utilizando la insttalación asistida de Python_
 
 ```
-![p1](https://user-images.githubusercontent.com/88066056/146028470-e33a94e6-7479-476a-934c-b2c783eadd56.jpg)
+[p1](https://user-images.githubusercontent.com/88066056/146028470-e33a94e6-7479-476a-934c-b2c783eadd56.jpg)
 Siguiente
 
-![P2](https://user-images.githubusercontent.com/88066056/146028519-18779bd7-7829-45a8-86cb-8dfdd92f9241.jpg)
+[P2](https://user-images.githubusercontent.com/88066056/146028519-18779bd7-7829-45a8-86cb-8dfdd92f9241.jpg)
 Siguiente
 
-![P3](https://user-images.githubusercontent.com/88066056/146028567-d18cc6f0-94ed-4860-9ae5-02f8fe30437f.jpg)
+[P3](https://user-images.githubusercontent.com/88066056/146028567-d18cc6f0-94ed-4860-9ae5-02f8fe30437f.jpg)
 Siguiente
 
-![P4](https://user-images.githubusercontent.com/88066056/146028607-4649ee2a-1c4c-4db8-95b9-86021f5a8b08.jpg)
+[P4](https://user-images.githubusercontent.com/88066056/146028607-4649ee2a-1c4c-4db8-95b9-86021f5a8b08.jpg)
 Siguiente
 ```
 
